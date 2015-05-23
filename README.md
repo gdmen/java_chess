@@ -7,5 +7,4 @@
 ### User Guide
     Included are all java files. The main method is in "Game.java"
 
-    https://www.youtube.com/watch?v=Ytpb35VO4gI
-
+https://www.youtube.com/watch?v=Ytpb35VO4gI
